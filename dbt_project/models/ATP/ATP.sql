@@ -1,4 +1,7 @@
 -- dbt test 01
+
+-- Return a view of the ATP database containing grand slam matches between Nadal & Djokovic
+
 {{ config(materialized='view') }}
 
 SELECT * 
