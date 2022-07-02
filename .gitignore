@@ -149,3 +149,6 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+# Secrets
+utils/getPW.py
+utils/pw.csv
