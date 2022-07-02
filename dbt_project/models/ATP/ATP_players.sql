@@ -1,7 +1,7 @@
 {{ config(materialized='view') }}
 
 -- Select player 
-WITH player as (SELECT 'Andy Murray' as player)
+WITH player as (SELECT 'Rafael Nadal' as player)
 
 
 -- Select tournament, total hours played, match wins and tournament wins
