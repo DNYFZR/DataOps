@@ -1,5 +1,7 @@
 # venv fil
 dbt_env/
+.dbt/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
