@@ -2,7 +2,7 @@
 version: 2
 
 models:
-  - name: ATP_tour_test
+  - name: Player_tourney
     description: 'Test of ATP tour matches table'
     columns:
       - name: tourney_id
